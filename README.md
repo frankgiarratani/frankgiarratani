@@ -9,4 +9,3 @@
 - 💬 Ask me about anything Japan related
 - 📫 How to reach me: {my_last_name}@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
