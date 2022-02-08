@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi Everyone 👋
 
-<!--
-**frankgiarratani/frankgiarratani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I'm a recent graduate of Tech Elevator's Full Stack Java Bootcamp.
+- 🥾 I can build secure APIs with Spring Boot
+- 🔭 I’m currently working on a Kanji Space Invaders Pygame for Japanese learners.
+- 🌱 I’m currently learning Vue.js, Python, and Mandarin Chinese
+- 👯 I’m looking to collaborate on language learning apps.
+- 🤔 I’m looking for help navigating the job market.
+- 💬 Ask me about anything Japan related
+- 📫 How to reach me: {my_last_name}@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
